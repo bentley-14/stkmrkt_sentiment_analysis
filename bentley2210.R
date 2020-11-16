@@ -1,4 +1,3 @@
-#Make Money, Get Bitches
 
 library(httpuv)
 library(wordcloud)
